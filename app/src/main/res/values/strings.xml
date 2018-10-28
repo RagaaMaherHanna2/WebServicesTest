@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebServicesTest</string>
+    <string name="http">Http</string>
+</resources>
